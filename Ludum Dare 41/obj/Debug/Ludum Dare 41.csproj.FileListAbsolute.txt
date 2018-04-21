@@ -1,0 +1,8 @@
+C:\Users\Zachary Seebeck\Documents\Projects\Ludum-Dare-41\Ludum Dare 41\bin\Debug\Ludum Dare 41.exe
+C:\Users\Zachary Seebeck\Documents\Projects\Ludum-Dare-41\Ludum Dare 41\bin\Debug\Ludum Dare 41.pdb
+C:\Users\Zachary Seebeck\Documents\Projects\Ludum-Dare-41\Ludum Dare 41\obj\Debug\Ludum Dare 41.csprojResolveAssemblyReference.cache
+C:\Users\Zachary Seebeck\Documents\Projects\Ludum-Dare-41\Ludum Dare 41\obj\Debug\Ludum_Dare_41.LD41.resources
+C:\Users\Zachary Seebeck\Documents\Projects\Ludum-Dare-41\Ludum Dare 41\obj\Debug\Ludum_Dare_41.Properties.Resources.resources
+C:\Users\Zachary Seebeck\Documents\Projects\Ludum-Dare-41\Ludum Dare 41\obj\Debug\Ludum Dare 41.csproj.GenerateResource.Cache
+C:\Users\Zachary Seebeck\Documents\Projects\Ludum-Dare-41\Ludum Dare 41\obj\Debug\Ludum Dare 41.exe
+C:\Users\Zachary Seebeck\Documents\Projects\Ludum-Dare-41\Ludum Dare 41\obj\Debug\Ludum Dare 41.pdb
