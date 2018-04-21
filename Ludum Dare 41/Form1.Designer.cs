@@ -56,7 +56,7 @@
             this.cmdInput.ShortcutsEnabled = false;
             this.cmdInput.Size = new System.Drawing.Size(654, 55);
             this.cmdInput.TabIndex = 1;
-            this.cmdInput.Text = "TYPE \"HELP\" FOR HELP";
+            this.cmdInput.Text = "TYPE HELP FOR HELP";
             this.cmdInput.WordWrap = false;
             // 
             // inac1
